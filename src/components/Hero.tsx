@@ -120,7 +120,7 @@ const Hero = () => {
                 size="lg"
                 asChild
               >
-                <a href="" download>
+                <a href="DpResume.pdf" download>
                   Download Resume
                 </a>
               </Button>
