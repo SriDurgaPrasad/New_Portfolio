@@ -120,8 +120,8 @@ const Hero = () => {
                 size="lg"
                 asChild
               >
-                <a href="/lovable-uploads/efad154e-1e99-41fd-9122-7b202df66c7d.png" download>
-                  Download CV
+                <a href="" download>
+                  Download Resume
                 </a>
               </Button>
             </motion.div>
